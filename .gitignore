@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DCSolution.Web/.vs/DCSolution.Web/v16
+/DCSolution.Web/DCSolution.Web/obj
